@@ -1,0 +1,13 @@
+{
+  "project_title": "Translation Request Queue",
+  "goal": "Prioritize translations by impact and urgency.",
+  "entity_name": "request",
+  "amount_label": "word_count",
+  "score_label": "priority_score",
+  "categories": [
+    "product",
+    "marketing",
+    "legal",
+    "support"
+  ]
+}
